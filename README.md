@@ -10,4 +10,4 @@ Data Science Certificate - Assignment 01
 
 ### For you to fill out:  
 
-Hi, my name is `Scott` and the weirdest thing I have ever eaten is `earthworms`.
+Hi, my name is `Tom` and the weirdest thing I have ever eaten is `live ants`. Let's Eat!!
